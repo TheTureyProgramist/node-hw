@@ -1,0 +1,21 @@
+{
+  "name": "hw",
+  "version": "1.0.0",
+  "description": "З індиками працюватиму в майбутньому",
+  "main": "index.js",
+  "start": "node main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "keywords": [
+    "8358358"
+  ],
+  "author": "Діма",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.14.4",
+    "sass": "^1.86.3",
+    "uuid": "^11.1.0"
+  }
+}
